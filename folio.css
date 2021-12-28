@@ -879,10 +879,8 @@ pre {
   margin-top: 1.5rem !important; }
   pre code {
     text-shadow: none !important; }
-/*
     pre code span, pre code .token {
       color: #F7F6FB !important; }
-*/
 
 .notion-image.page-width img {
   border-radius: 0.5rem !important; }
